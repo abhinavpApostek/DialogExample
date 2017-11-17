@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DialogExample</string>
+    <array name="items">
+        <item>red</item>
+        <item>green</item>
+        <item>blue</item>
+    </array>
+</resources>
